@@ -20,8 +20,4 @@ public class Example {
 		System.out.println("Namaste");
 	}
 	
-	public void m5()
-	{
-		System.out.println("whatsup");
-	}
 }
