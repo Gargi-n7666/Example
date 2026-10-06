@@ -19,4 +19,9 @@ public class Example {
 	{
 		System.out.println("Namaste");
 	}
+	
+	public void m5()
+	{
+		
+	}
 }
