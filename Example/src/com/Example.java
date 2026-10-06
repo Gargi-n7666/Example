@@ -22,6 +22,6 @@ public class Example {
 	
 	public void m5()
 	{
-		
+		System.out.println("whatsup");
 	}
 }
